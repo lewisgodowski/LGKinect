@@ -29,4 +29,4 @@ This Processing sketch was commissioned by [Suzanne Kite](http://www.kitekitekit
 
 ## License
 
-LGKinectTweeter is available under the MIT license. See the LICENSE file for more info.
+LGKinect is available under the MIT license. See the LICENSE file for more info.
