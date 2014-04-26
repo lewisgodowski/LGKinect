@@ -1,7 +1,7 @@
 LGKinect
 ========
 
-LGKinect is a Processing sketch for sending a live Kinect feed to another application, via Syphon
+LGKinect is a Processing sketch for sending a live Kinect feed to another application, via Syphon.
 
 
 ## About
