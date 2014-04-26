@@ -15,7 +15,7 @@ This Processing sketch was commissioned by [Suzanne Kite](http://www.kitekitekit
 2. Un-zip `Syphon.zip` and install the resulting `Syphon` Processing library.
 3. Plug in the Kinect's USB and power adapter.
 4. Open and run the `LGKinect.pde` Processing sketch.
-5. Open an application capable of receiving live video (ex: Resolume Arena) and select the Syphon video stream.
+5. Open an application capable of receiving live video (ex: Resolume Arena) and select the Syphon video stream source.
 
 - The `z` and `x` keys decrease and increase the minimum depth value tracked by the Kinect.
 - The `n` and `m` keys decrease and increase the maximum depth value tracked by the Kinect.
