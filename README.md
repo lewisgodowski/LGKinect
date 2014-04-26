@@ -6,7 +6,7 @@ LGKinect is a Processing sketch for sending a live Kinect feed to another applic
 
 ## About
 
-This Processing sketch was created at the request of [Suzanne Kite](http://www.kitekitekitekite.com) to track three dancers using a Kinect and send a mask of their shape to Resolume Arena, where visuals were mixed live and projected on the dancers' bodies.
+This Processing sketch was commissioned by [Suzanne Kite](http://www.kitekitekitekite.com) to track three dancers using a Kinect and send a mask of their shape to Resolume Arena, where visuals were mixed live and projected onto their bodies.
 
 
 ## Usage
@@ -16,6 +16,9 @@ This Processing sketch was created at the request of [Suzanne Kite](http://www.k
 3. Plug in the Kinect's USB and power adapter.
 4. Open and run the `LGKinect.pde` Processing sketch.
 5. Open an application capable of receiving live video (ex: Resolume Arena) and select the Syphon video stream.
+
+- The `z` and `x` keys decrease and increase the minimum depth value tracked by the Kinect.
+- The `n` and `m` keys decrease and increase the maximum depth value tracked by the Kinect.
 
 
 ## To Do
