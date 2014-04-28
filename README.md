@@ -17,6 +17,7 @@ This Processing sketch was commissioned by [Suzanne Kite](http://www.kitekitekit
 4. Open and run the `LGKinect.pde` Processing sketch.
 5. Open an application capable of receiving live video (ex: Resolume Arena) and select the Syphon video stream source.
 
+### Controls
 - The `z` and `x` keys decrease and increase the minimum depth value tracked by the Kinect.
 - The `n` and `m` keys decrease and increase the maximum depth value tracked by the Kinect.
 
