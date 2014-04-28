@@ -11,7 +11,7 @@ This Processing sketch was commissioned by [Suzanne Kite](http://www.kitekitekit
 
 ## Usage
 
-1. Download and install the `SimpleOpenNI` Processing library available [here](https://code.google.com/p/simple-openni/downloads/detail?name=SimpleOpenNI-1.96.zip)
+1. Download and install the `SimpleOpenNI` Processing library available [here](https://code.google.com/p/simple-openni/downloads/detail?name=SimpleOpenNI-1.96.zip).
 2. Un-zip `Syphon.zip` and install the resulting `Syphon` Processing library.
 3. Plug in the Kinect's USB and power adapter.
 4. Open and run the `LGKinect.pde` Processing sketch.
