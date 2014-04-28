@@ -18,9 +18,11 @@ This Processing sketch was commissioned by [Suzanne Kite](http://www.kitekitekit
 5. Open an application capable of receiving live video (ex: Resolume Arena) and select the Syphon video stream source.
 
 ### Controls
+Once LGKinect is running:
 - The `z` and `x` keys decrease and increase the minimum depth value tracked by the Kinect.
 - The `n` and `m` keys decrease and increase the maximum depth value tracked by the Kinect.
 
+_Note: Focus must be on the LGKinect video window for the controls to work._
 
 ## To Do
 
